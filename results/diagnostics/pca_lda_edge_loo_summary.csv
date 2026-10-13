@@ -1,0 +1,3 @@
+pca_pre_dimension,n_predictions,mean_accuracy_euclidean_1nn,sd_accuracy_euclidean_1nn,mean_accuracy_train_std_euclidean_1nn,within_rank_min,within_rank_max,within_condition_median,pca_last_variance_median,lda_coord_std_ratio_median
+280,320,0.7375,0.440682002082,0.928125,278,279,251.237380981,8.76500125742e-05,15.2372617722
+319,320,0.03125,0.174265138677,0.03125,279,279,1.62199699879,1.0439027572e-12,1.23976629972

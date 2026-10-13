@@ -1,0 +1,4 @@
+comparison,n_outer_folds,mean_delta,wins,ties,losses
+pca_selected - raw_1nn,5,-0.005,0,3,2
+direct_lda_selected - raw_1nn,5,0.0475,5,0,0
+pca_lda_selected - raw_1nn,5,0.045,5,0,0

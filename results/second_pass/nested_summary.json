@@ -1,0 +1,779 @@
+{
+  "curves": [
+    {
+      "max_accuracy": 0.25,
+      "mean_accuracy": 0.185,
+      "mean_error_rate": 0.8150000000000001,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.15,
+      "n_outer_folds": 5,
+      "output_dimension": 1,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.038931028755993594
+    },
+    {
+      "max_accuracy": 0.4625,
+      "mean_accuracy": 0.44000000000000006,
+      "mean_error_rate": 0.56,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.3875,
+      "n_outer_folds": 5,
+      "output_dimension": 2,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.0298433409657833
+    },
+    {
+      "max_accuracy": 0.9125,
+      "mean_accuracy": 0.835,
+      "mean_error_rate": 0.16499999999999998,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.775,
+      "n_outer_folds": 5,
+      "output_dimension": 5,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.05618051263561056
+    },
+    {
+      "max_accuracy": 1.0,
+      "mean_accuracy": 0.9775,
+      "mean_error_rate": 0.02250000000000001,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.95,
+      "n_outer_folds": 5,
+      "output_dimension": 10,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.022360679774997897
+    },
+    {
+      "max_accuracy": 1.0,
+      "mean_accuracy": 0.985,
+      "mean_error_rate": 0.014999999999999968,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.9625,
+      "n_outer_folds": 5,
+      "output_dimension": 15,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.013693063937629181
+    },
+    {
+      "max_accuracy": 1.0,
+      "mean_accuracy": 0.985,
+      "mean_error_rate": 0.01499999999999999,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.9375,
+      "n_outer_folds": 5,
+      "output_dimension": 20,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.02709935423584852
+    },
+    {
+      "max_accuracy": 1.0,
+      "mean_accuracy": 0.9824999999999999,
+      "mean_error_rate": 0.01749999999999998,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.9375,
+      "n_outer_folds": 5,
+      "output_dimension": 25,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.02592055169165967
+    },
+    {
+      "max_accuracy": 1.0,
+      "mean_accuracy": 0.9875,
+      "mean_error_rate": 0.0125,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.95,
+      "n_outer_folds": 5,
+      "output_dimension": 30,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.021650635094610987
+    },
+    {
+      "max_accuracy": 1.0,
+      "mean_accuracy": 0.9875,
+      "mean_error_rate": 0.0125,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.95,
+      "n_outer_folds": 5,
+      "output_dimension": 35,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.021650635094610987
+    },
+    {
+      "max_accuracy": 1.0,
+      "mean_accuracy": 0.9875,
+      "mean_error_rate": 0.0125,
+      "method": "direct_lda_curve",
+      "min_accuracy": 0.95,
+      "n_outer_folds": 5,
+      "output_dimension": 39,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.021650635094610987
+    },
+    {
+      "max_accuracy": 0.275,
+      "mean_accuracy": 0.14500000000000002,
+      "mean_error_rate": 0.8550000000000001,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.075,
+      "n_outer_folds": 5,
+      "output_dimension": 1,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.08596874432024701
+    },
+    {
+      "max_accuracy": 0.3375,
+      "mean_accuracy": 0.2625,
+      "mean_error_rate": 0.7375,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.175,
+      "n_outer_folds": 5,
+      "output_dimension": 2,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.07126096406869613
+    },
+    {
+      "max_accuracy": 0.6125,
+      "mean_accuracy": 0.40499999999999997,
+      "mean_error_rate": 0.595,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.225,
+      "n_outer_folds": 5,
+      "output_dimension": 5,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.14485984605818136
+    },
+    {
+      "max_accuracy": 0.7,
+      "mean_accuracy": 0.47000000000000003,
+      "mean_error_rate": 0.53,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.25,
+      "n_outer_folds": 5,
+      "output_dimension": 10,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.18213147723553993
+    },
+    {
+      "max_accuracy": 0.7375,
+      "mean_accuracy": 0.4875,
+      "mean_error_rate": 0.5125,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.25,
+      "n_outer_folds": 5,
+      "output_dimension": 15,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.19665165903190343
+    },
+    {
+      "max_accuracy": 0.7875,
+      "mean_accuracy": 0.5,
+      "mean_error_rate": 0.5,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.2625,
+      "n_outer_folds": 5,
+      "output_dimension": 20,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.2095381826780026
+    },
+    {
+      "max_accuracy": 0.7875,
+      "mean_accuracy": 0.5025000000000001,
+      "mean_error_rate": 0.49749999999999994,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.2625,
+      "n_outer_folds": 5,
+      "output_dimension": 25,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.2110983183258455
+    },
+    {
+      "max_accuracy": 0.7875,
+      "mean_accuracy": 0.5025000000000001,
+      "mean_error_rate": 0.49749999999999994,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.2625,
+      "n_outer_folds": 5,
+      "output_dimension": 30,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.2110983183258455
+    },
+    {
+      "max_accuracy": 0.7875,
+      "mean_accuracy": 0.5025000000000001,
+      "mean_error_rate": 0.49749999999999994,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.2625,
+      "n_outer_folds": 5,
+      "output_dimension": 35,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.2110983183258455
+    },
+    {
+      "max_accuracy": 0.7875,
+      "mean_accuracy": 0.505,
+      "mean_error_rate": 0.495,
+      "method": "pca280_lda_curve",
+      "min_accuracy": 0.2625,
+      "n_outer_folds": 5,
+      "output_dimension": 39,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.20871631464741802
+    },
+    {
+      "max_accuracy": 0.275,
+      "mean_accuracy": 0.14500000000000002,
+      "mean_error_rate": 0.8550000000000001,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.075,
+      "n_outer_folds": 5,
+      "output_dimension": 1,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.08596874432024701
+    },
+    {
+      "max_accuracy": 0.375,
+      "mean_accuracy": 0.2925,
+      "mean_error_rate": 0.7075,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.2125,
+      "n_outer_folds": 5,
+      "output_dimension": 2,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.07213269023126755
+    },
+    {
+      "max_accuracy": 0.7625,
+      "mean_accuracy": 0.6849999999999999,
+      "mean_error_rate": 0.31500000000000006,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.575,
+      "n_outer_folds": 5,
+      "output_dimension": 5,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.08168154626352271
+    },
+    {
+      "max_accuracy": 0.9125,
+      "mean_accuracy": 0.8800000000000001,
+      "mean_error_rate": 0.12,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.8625,
+      "n_outer_folds": 5,
+      "output_dimension": 10,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.02091650066335182
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9275,
+      "mean_error_rate": 0.07249999999999998,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.8875,
+      "n_outer_folds": 5,
+      "output_dimension": 15,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.03468609231377903
+    },
+    {
+      "max_accuracy": 0.975,
+      "mean_accuracy": 0.9375,
+      "mean_error_rate": 0.0625,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.9,
+      "n_outer_folds": 5,
+      "output_dimension": 20,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.0318688719599549
+    },
+    {
+      "max_accuracy": 0.9875,
+      "mean_accuracy": 0.9475,
+      "mean_error_rate": 0.05249999999999999,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.9125,
+      "n_outer_folds": 5,
+      "output_dimension": 25,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.032355447763862
+    },
+    {
+      "max_accuracy": 0.9875,
+      "mean_accuracy": 0.9650000000000001,
+      "mean_error_rate": 0.03500000000000001,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.9375,
+      "n_outer_folds": 5,
+      "output_dimension": 30,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.020539595906443758
+    },
+    {
+      "max_accuracy": 0.9875,
+      "mean_accuracy": 0.97,
+      "mean_error_rate": 0.030000000000000006,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.95,
+      "n_outer_folds": 5,
+      "output_dimension": 35,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.018957188610128906
+    },
+    {
+      "max_accuracy": 0.9875,
+      "mean_accuracy": 0.9724999999999999,
+      "mean_error_rate": 0.02749999999999999,
+      "method": "pca280_lda_trainstd_curve",
+      "min_accuracy": 0.9375,
+      "n_outer_folds": 5,
+      "output_dimension": 39,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.02053959590644372
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9400000000000001,
+      "mean_error_rate": 0.06000000000000001,
+      "method": "pca280_only_curve",
+      "min_accuracy": 0.8875,
+      "n_outer_folds": 5,
+      "output_dimension": 280,
+      "pca_pre_dimension": 280.0,
+      "sd_accuracy": 0.031124748994971845
+    },
+    {
+      "max_accuracy": 0.075,
+      "mean_accuracy": 0.052500000000000005,
+      "mean_error_rate": 0.9475,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.0125,
+      "n_outer_folds": 5,
+      "output_dimension": 1,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.024044230077089182
+    },
+    {
+      "max_accuracy": 0.1625,
+      "mean_accuracy": 0.11000000000000001,
+      "mean_error_rate": 0.89,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.05,
+      "n_outer_folds": 5,
+      "output_dimension": 2,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.04626688880830437
+    },
+    {
+      "max_accuracy": 0.325,
+      "mean_accuracy": 0.27,
+      "mean_error_rate": 0.73,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.225,
+      "n_outer_folds": 5,
+      "output_dimension": 5,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.040117016339703035
+    },
+    {
+      "max_accuracy": 0.5,
+      "mean_accuracy": 0.4575,
+      "mean_error_rate": 0.5425,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.4125,
+      "n_outer_folds": 5,
+      "output_dimension": 10,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.03377314021526575
+    },
+    {
+      "max_accuracy": 0.575,
+      "mean_accuracy": 0.5549999999999999,
+      "mean_error_rate": 0.445,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.525,
+      "n_outer_folds": 5,
+      "output_dimension": 15,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.018957188610128854
+    },
+    {
+      "max_accuracy": 0.6875,
+      "mean_accuracy": 0.62,
+      "mean_error_rate": 0.38,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.5625,
+      "n_outer_folds": 5,
+      "output_dimension": 20,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.04889401803901987
+    },
+    {
+      "max_accuracy": 0.7125,
+      "mean_accuracy": 0.6325000000000001,
+      "mean_error_rate": 0.3675,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.5375,
+      "n_outer_folds": 5,
+      "output_dimension": 25,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.07158910531638177
+    },
+    {
+      "max_accuracy": 0.725,
+      "mean_accuracy": 0.6525000000000001,
+      "mean_error_rate": 0.34750000000000003,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.55,
+      "n_outer_folds": 5,
+      "output_dimension": 30,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.0657884868347038
+    },
+    {
+      "max_accuracy": 0.675,
+      "mean_accuracy": 0.655,
+      "mean_error_rate": 0.345,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.6125,
+      "n_outer_folds": 5,
+      "output_dimension": 35,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.025920551691659646
+    },
+    {
+      "max_accuracy": 0.6875,
+      "mean_accuracy": 0.6475,
+      "mean_error_rate": 0.35250000000000004,
+      "method": "pca319_lda_curve",
+      "min_accuracy": 0.6,
+      "n_outer_folds": 5,
+      "output_dimension": 39,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.03235544776386197
+    },
+    {
+      "max_accuracy": 0.075,
+      "mean_accuracy": 0.052500000000000005,
+      "mean_error_rate": 0.9475,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.0125,
+      "n_outer_folds": 5,
+      "output_dimension": 1,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.024044230077089182
+    },
+    {
+      "max_accuracy": 0.1625,
+      "mean_accuracy": 0.11000000000000001,
+      "mean_error_rate": 0.89,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.05,
+      "n_outer_folds": 5,
+      "output_dimension": 2,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.04626688880830437
+    },
+    {
+      "max_accuracy": 0.3125,
+      "mean_accuracy": 0.26749999999999996,
+      "mean_error_rate": 0.7325,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.225,
+      "n_outer_folds": 5,
+      "output_dimension": 5,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.036012150727219826
+    },
+    {
+      "max_accuracy": 0.475,
+      "mean_accuracy": 0.4425,
+      "mean_error_rate": 0.5575,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.425,
+      "n_outer_folds": 5,
+      "output_dimension": 10,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.01895718861012887
+    },
+    {
+      "max_accuracy": 0.575,
+      "mean_accuracy": 0.5525,
+      "mean_error_rate": 0.44749999999999995,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.5375,
+      "n_outer_folds": 5,
+      "output_dimension": 15,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.016298006013006607
+    },
+    {
+      "max_accuracy": 0.6875,
+      "mean_accuracy": 0.6174999999999999,
+      "mean_error_rate": 0.3825,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.55,
+      "n_outer_folds": 5,
+      "output_dimension": 20,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.05273755777432247
+    },
+    {
+      "max_accuracy": 0.7125,
+      "mean_accuracy": 0.625,
+      "mean_error_rate": 0.375,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.4875,
+      "n_outer_folds": 5,
+      "output_dimension": 25,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.08838834764831843
+    },
+    {
+      "max_accuracy": 0.675,
+      "mean_accuracy": 0.625,
+      "mean_error_rate": 0.375,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.5625,
+      "n_outer_folds": 5,
+      "output_dimension": 30,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.045927932677184605
+    },
+    {
+      "max_accuracy": 0.6625,
+      "mean_accuracy": 0.63,
+      "mean_error_rate": 0.37,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.55,
+      "n_outer_folds": 5,
+      "output_dimension": 35,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.04558645632202615
+    },
+    {
+      "max_accuracy": 0.6625,
+      "mean_accuracy": 0.625,
+      "mean_error_rate": 0.375,
+      "method": "pca319_lda_trainstd_curve",
+      "min_accuracy": 0.55,
+      "n_outer_folds": 5,
+      "output_dimension": 39,
+      "pca_pre_dimension": 319.0,
+      "sd_accuracy": 0.04419417382415917
+    },
+    {
+      "max_accuracy": 0.1625,
+      "mean_accuracy": 0.135,
+      "mean_error_rate": 0.865,
+      "method": "pca_curve",
+      "min_accuracy": 0.0625,
+      "n_outer_folds": 5,
+      "output_dimension": 1,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.041833001326703784
+    },
+    {
+      "max_accuracy": 0.35,
+      "mean_accuracy": 0.2925,
+      "mean_error_rate": 0.7075,
+      "method": "pca_curve",
+      "min_accuracy": 0.25,
+      "n_outer_folds": 5,
+      "output_dimension": 2,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.0370809924354783
+    },
+    {
+      "max_accuracy": 0.8,
+      "mean_accuracy": 0.745,
+      "mean_error_rate": 0.255,
+      "method": "pca_curve",
+      "min_accuracy": 0.6875,
+      "n_outer_folds": 5,
+      "output_dimension": 5,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.040117016339703035
+    },
+    {
+      "max_accuracy": 0.925,
+      "mean_accuracy": 0.8875,
+      "mean_error_rate": 0.1125,
+      "method": "pca_curve",
+      "min_accuracy": 0.8375,
+      "n_outer_folds": 5,
+      "output_dimension": 10,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.034232659844072894
+    },
+    {
+      "max_accuracy": 0.95,
+      "mean_accuracy": 0.9349999999999999,
+      "mean_error_rate": 0.06500000000000002,
+      "method": "pca_curve",
+      "min_accuracy": 0.9125,
+      "n_outer_folds": 5,
+      "output_dimension": 20,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.016298006013006627
+    },
+    {
+      "max_accuracy": 0.95,
+      "mean_accuracy": 0.9349999999999999,
+      "mean_error_rate": 0.06500000000000002,
+      "method": "pca_curve",
+      "min_accuracy": 0.9125,
+      "n_outer_folds": 5,
+      "output_dimension": 30,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.013693063937629122
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9400000000000001,
+      "mean_error_rate": 0.06000000000000001,
+      "method": "pca_curve",
+      "min_accuracy": 0.9125,
+      "n_outer_folds": 5,
+      "output_dimension": 40,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.01854049621773913
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9400000000000001,
+      "mean_error_rate": 0.059999999999999984,
+      "method": "pca_curve",
+      "min_accuracy": 0.9,
+      "n_outer_folds": 5,
+      "output_dimension": 50,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.025617376914899015
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9425000000000001,
+      "mean_error_rate": 0.057499999999999996,
+      "method": "pca_curve",
+      "min_accuracy": 0.9125,
+      "n_outer_folds": 5,
+      "output_dimension": 75,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.0227073776557312
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9425000000000001,
+      "mean_error_rate": 0.057499999999999996,
+      "method": "pca_curve",
+      "min_accuracy": 0.9,
+      "n_outer_folds": 5,
+      "output_dimension": 100,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.02592055169165966
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9400000000000001,
+      "mean_error_rate": 0.06000000000000001,
+      "method": "pca_curve",
+      "min_accuracy": 0.8875,
+      "n_outer_folds": 5,
+      "output_dimension": 150,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.031124748994971845
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9400000000000001,
+      "mean_error_rate": 0.06000000000000001,
+      "method": "pca_curve",
+      "min_accuracy": 0.8875,
+      "n_outer_folds": 5,
+      "output_dimension": 200,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.031124748994971845
+    },
+    {
+      "max_accuracy": 0.9625,
+      "mean_accuracy": 0.9400000000000001,
+      "mean_error_rate": 0.06000000000000001,
+      "method": "raw_1nn",
+      "min_accuracy": 0.8875,
+      "n_outer_folds": 5,
+      "output_dimension": 4096,
+      "pca_pre_dimension": NaN,
+      "sd_accuracy": 0.031124748994971845
+    }
+  ],
+  "dataset_size": 400,
+  "dimension_selection_frequencies": {
+    "direct_lda": {
+      "lda_25": 1,
+      "lda_30": 2,
+      "lda_35": 1,
+      "lda_39": 1
+    },
+    "pca": {
+      "pca_150": 1,
+      "pca_200": 1,
+      "pca_40": 2,
+      "pca_75": 1
+    },
+    "pca_lda": {
+      "pca100_lda30": 3,
+      "pca50_lda39": 1,
+      "pca75_lda35": 1
+    }
+  },
+  "outer_folds": 5,
+  "paired_outer_fold_comparisons": [
+    {
+      "comparison": "pca_selected - raw_1nn",
+      "losses": 2,
+      "mean_delta": -0.0050000000000000044,
+      "n_outer_folds": 5,
+      "ties": 3,
+      "wins": 0
+    },
+    {
+      "comparison": "direct_lda_selected - raw_1nn",
+      "losses": 0,
+      "mean_delta": 0.04750000000000001,
+      "n_outer_folds": 5,
+      "ties": 0,
+      "wins": 5
+    },
+    {
+      "comparison": "pca_lda_selected - raw_1nn",
+      "losses": 0,
+      "mean_delta": 0.045,
+      "n_outer_folds": 5,
+      "ties": 0,
+      "wins": 5
+    }
+  ],
+  "runtime_sec": 57.77230208180845,
+  "selected_model_outer_mean_accuracy": {
+    "direct_lda_selected": {
+      "mean": 0.9875,
+      "mean_error_rate": 0.0125,
+      "sd": 0.021650635094610987
+    },
+    "pca_lda_selected": {
+      "mean": 0.985,
+      "mean_error_rate": 0.015000000000000013,
+      "sd": 0.02236067977499792
+    },
+    "pca_selected": {
+      "mean": 0.9349999999999999,
+      "mean_error_rate": 0.06500000000000002,
+      "sd": 0.02984334096578335
+    },
+    "raw_1nn": {
+      "mean": 0.9400000000000001,
+      "mean_error_rate": 0.06000000000000001,
+      "sd": 0.031124748994971845
+    }
+  },
+  "validation_status": "PASS"
+}

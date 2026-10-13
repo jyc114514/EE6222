@@ -1,0 +1,46 @@
+# Python environments, caches, and test output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local dataset cache and derived image arrays
+data/
+
+# Local audit records include machine-specific paths and identity-bearing metadata
+audit/
+
+# Keep curated result outputs only; exclude run logs and raw diagnostic matrices
+results/logs/
+results/diagnostics/*.csv
+!results/diagnostics/pca_lda_edge_loo_summary.csv
+!results/diagnostics/pca_lda_internal_cv_summary.csv
+!results/diagnostics/pca_lda_seed42_outer_train_rank_summary.csv
+!results/diagnostics/pca_lda_within_nullspace.csv
+
+# Student submission and working documents contain a matriculation number or local paths
+JIYANCHEN-*.pdf
+*_pre_format_*.pdf
+EE6222_Final_Report.md
+EE6222_Final_Report.pre_format_20261013.md
+build_submission_pdf.pre_format_20261013.py
+EE6222_Assignment_Standalone.pre_publication_20261013.py
+PUBLICATION_EXCLUSIONS_LOCAL.md
+DELIVERY_MANIFEST.json
+DELIVERY_README.md
+REPRODUCIBILITY.md
+EE6222_FINAL_REVISION_CHANGELOG.md
+EE6222_SUBMISSION_READINESS_AUDIT.md
+EE6222_V1_V2_DIFFERENCE.md
+
+# Personal submission validator and transient backups
+src/validate_second_pass_report.py
+**/*.bak_*

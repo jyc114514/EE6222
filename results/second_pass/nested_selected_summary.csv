@@ -1,0 +1,5 @@
+method,n_outer_folds,mean_accuracy,sd_accuracy,mean_error_rate,total_correct,total_test
+raw_1nn,5,0.94,0.031124748995,0.06,376,400
+pca_selected,5,0.935,0.0298433409658,0.065,374,400
+direct_lda_selected,5,0.9875,0.0216506350946,0.0125,395,400
+pca_lda_selected,5,0.985,0.022360679775,0.015,394,400
